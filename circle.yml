@@ -1,6 +1,2 @@
 general:
   build_dir: api
-machine:
-  java:
-    version: openjdk7
-
